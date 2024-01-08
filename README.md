@@ -52,3 +52,7 @@ O projeto está no projeto bem inicial :-) Conhecimento de Python do autor é be
 * Automatizar Subscrições na Área do Investidor da B3:
   Desenvolver uma solução para lidar com as subscrições na Área do Investidor da B3, já que atualmente não é fornecido o valor unitário da operação. Considerar a automação ou implementar uma alternativa eficiente para a entrada manual, especialmente para usuários que realizam múltiplas subscrições.
 Esta lista pode servir como um guia para as próximas etapas do projeto, abordando áreas que precisam de atenção e melhorias.
+
+* Melhorar README.md
+  Melhorar estrutura, incluir exemplos, tutoriais, setup e documentar os comandos. 
+
