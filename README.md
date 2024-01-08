@@ -41,3 +41,14 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request 
 
 O projeto está no projeto bem inicial :-) Conhecimento de Python do autor é bem ínfimo.
 
+## TODO List
+
+* Adicionar Animação de Loading:
+ Implementar uma animação de carregamento durante a execução do comando de resumo para melhorar a experiência do usuário enquanto as informações são coletadas da API.
+
+* Adicionar Opção --cached no Comando Mostrar Resumo:
+  Incluir uma opção --cached no comando de mostrar resumo para recuperar os dados armazenados em cache pela aplicação, reduzindo a necessidade de acessar a API repetidamente. Esses dados serão utilizados para geração de relatórios e gráficos.
+  
+* Automatizar Subscrições na Área do Investidor da B3:
+  Desenvolver uma solução para lidar com as subscrições na Área do Investidor da B3, já que atualmente não é fornecido o valor unitário da operação. Considerar a automação ou implementar uma alternativa eficiente para a entrada manual, especialmente para usuários que realizam múltiplas subscrições.
+Esta lista pode servir como um guia para as próximas etapas do projeto, abordando áreas que precisam de atenção e melhorias.
