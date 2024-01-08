@@ -1,0 +1,14 @@
+# Arquivos gerados
+*.pyc
+*.o
+*.db
+backup.py
+
+# Arquivos de configuração
+.env
+config.json
+
+# Diretórios
+venv/
+node_modules/
+__pycache__/
